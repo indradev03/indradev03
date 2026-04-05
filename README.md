@@ -28,9 +28,7 @@
 
 ---
 ## 💫 About Me
-- 🌱 I’m currently exploring **Flutter, Dart & MERN Stack**
-- 💻 Passionate about building **beautiful & functional apps**
-- ⚡ Fun Fact: I solve **coding puzzles** for fun  
+- 🌱 I’m currently exploring **Flutter, Dart & MERN Stack** 
 - 🎨 Lover of **clean UI/UX** and sleek designs  
 
 ---
