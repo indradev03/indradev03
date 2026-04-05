@@ -1,41 +1,59 @@
-# 👋 Hey there, I'm Saroj Ayer! 
+<h1 align="center">👋 Hey there, I'm Saroj!</h1>
 
-![Banner](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="350px" />
+</p>
 
+
+---
+
+<p align="Center">
+  <img src="https://komarev.com/ghpvc/?username=indradev03&label=VIEWS&color=00d4ff&style=for-the-badge&logo=googleanalytics&logoColor=white" height="28" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sarojayer" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sarojayer@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/sarojayer" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
+  </a>
+</p>
+
+---
 ## 💫 About Me
-- 🌱 I’m currently exploring **Flutter, Dart & MERN Stack**  
-- 💻 Passionate about building **beautiful & functional apps**  
+- 🌱 I’m currently exploring **Flutter, Dart & MERN Stack**
+- 💻 Passionate about building **beautiful & functional apps**
 - ⚡ Fun Fact: I solve **coding puzzles** for fun  
 - 🎨 Lover of **clean UI/UX** and sleek designs  
 
 ---
 
 ## 🛠️ Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+| Frontend & Mobile | Backend & Database | DevOps & Tools |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nextjs,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indradev03&theme=tokyonight&title_color=00d4ff&text_color=ffffff&icon_color=2ecc71" />
+</p>
 
-![Saroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarojayer&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarojayer&layout=compact&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarojayer&theme=dracula)
+<p align="center">
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indradev03&theme=tokyonight&title_color=2ecc71" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=indradev03&theme=tokyonight&title_color=2ecc71" />
+</p>
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarojayer)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarojayer@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarojayer)  
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indradev03&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=7aa2f7" alt="GitHub Streak" />
+</p>
 
 ## ✨ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." 😄
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sarojayer)
