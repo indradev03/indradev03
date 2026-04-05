@@ -44,6 +44,9 @@
 ---
 
 ## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indradev03&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=7aa2f7" alt="GitHub Streak" />
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indradev03&theme=tokyonight&title_color=00d4ff&text_color=ffffff&icon_color=2ecc71" />
 </p>
@@ -53,8 +56,7 @@
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=indradev03&theme=tokyonight&title_color=2ecc71" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indradev03&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=7aa2f7" alt="GitHub Streak" />
+
 </p>
 
 ## ✨ Fun Fact
