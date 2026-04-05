@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hey there, I'm Saroj!</h1>
+<h1 align="left">
+ Hi, I am Saroj Ayer 🎗️
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="350px" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="100%" />
 </p>
+
 
 
 ---
