@@ -13,17 +13,17 @@
 <p align="Center">
   <img src="https://komarev.com/ghpvc/?username=indradev03&label=VIEWS&color=00d4ff&style=for-the-badge&logo=googleanalytics&logoColor=white" height="28" />
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarojayer" target="blank">
+  <a href="https://www.linkedin.com/in/saroj-ayer-76543533b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sarojayer@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/sarojayer" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
-  </a>
+    <a href="https://www.facebook.com/Sarojkreya" target="blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/indradev03" target="blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+    </a>
 </p>
 
 ---
